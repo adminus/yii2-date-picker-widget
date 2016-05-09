@@ -21,6 +21,6 @@ class DatePickerLanguageAsset extends AssetBundle
     public $sourcePath = '@vendor/bower/bootstrap-datepicker/dist/locales';
 
     public $depends = [
-        'dosamigos\datepicker\DateRangePickerAsset'
+        'adminus\datepicker\DateRangePickerAsset'
     ];
 }
