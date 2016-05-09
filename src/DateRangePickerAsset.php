@@ -25,7 +25,7 @@ class DateRangePickerAsset extends AssetBundle
     ];
 
     public $depends = [
-        'dosamigos\datepicker\DatePickerAsset'
+        'adminus\datepicker\DatePickerAsset'
     ];
 
 }
