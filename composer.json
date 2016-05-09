@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-date-picker-widget",
+    "name": "adminus/yii2-date-picker-widget",
     "description": "Bootstrap DatePicker widget for Yii2.",
     "type": "yii2-extension",
     "keywords": [
